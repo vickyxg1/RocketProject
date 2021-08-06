@@ -97,14 +97,14 @@ button.outlined,
 
 button.red,
 .button.red{
-  background: var(--red)
-  color: var(var(--white))
+  background: var(--red);
+  color: var(var(--white));
 }
 
 button.grey,
 .button.grey{
-  background: var(--grey-light)
-  color: var(var(--grey-dark))
+  background: var(--grey-light);
+  color: var(--grey-dark);
 }
 
 /****** Header *******/
